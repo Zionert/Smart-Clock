@@ -1,8 +1,11 @@
 import React from 'react'
+import TimeClock from '../../timeClock/TimeClock'
 
 function clock() {
   return (
-    <div>clock</div>
+    <div>
+      <TimeClock/>
+    </div>
   )
 }
 
