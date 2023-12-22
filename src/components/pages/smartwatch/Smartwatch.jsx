@@ -1,8 +1,11 @@
 import React from 'react'
+import  '../smartwatch/Smartwatch.scss'
 
 function smartwatch() {
   return (
-    <div>smartwatch</div>
+    <div>
+      asd
+    </div>
   )
 }
 
